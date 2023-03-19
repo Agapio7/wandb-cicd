@@ -1,3 +1,3 @@
 wandb-cicd
 
-These are resources for CICD and ML course.
+These are resources for W&B CICD and ML course.
